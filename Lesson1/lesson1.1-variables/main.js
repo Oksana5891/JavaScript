@@ -11,11 +11,11 @@
 // const PI = 3.141592652;
 // console.log(PI);
 //
-// let c= "Hello World!";
+// let c = "Hello World!";
 // c = '5';
 // console.log(typeof c, c);
 //
-// let d= 100;
+// let d = 100;
 // console.log(typeof d, d);
 //
 // let e = true;
