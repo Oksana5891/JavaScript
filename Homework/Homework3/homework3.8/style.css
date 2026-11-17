@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.users-box {
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);;
+    gap: 20px;
+}
+
+.user-block {
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
